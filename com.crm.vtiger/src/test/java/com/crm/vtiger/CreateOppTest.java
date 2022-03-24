@@ -13,7 +13,11 @@ public class CreateOppTest {
 public void create1() {
 	System.out.println("opp2");
 }
+@Test
 
+public void helooooooo() {
+	System.out.println(":)");
+}
 
 	
 }
