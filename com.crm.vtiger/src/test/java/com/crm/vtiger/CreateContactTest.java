@@ -13,7 +13,13 @@ public class CreateContactTest {
 
 public void create4() {
 	System.out.println("contact2");
+	System.out.println("contact3");
 }
+
+
+
+
+
 
 
 }
