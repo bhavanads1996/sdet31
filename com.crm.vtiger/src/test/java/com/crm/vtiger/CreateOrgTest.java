@@ -13,6 +13,7 @@ public class CreateOrgTest {
 
 public void create6() {
 	System.out.println("org2");
+	System.out.println("org");
 }
 
 
