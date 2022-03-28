@@ -3,7 +3,11 @@
 <suite name="Suite">
   <test thread-count="5" name="Test">
     <classes>
+      <class name="com.crm.vtiger.CreateLeadTest"/>
       <class name="com.crm.vtiger.CreateOppTest"/>
+      <class name="com.crm.vtiger.loginnewTest"/>
+      <class name="com.crm.vtiger.CreateContactTest"/>
+      <class name="com.crm.vtiger.User1Test"/>
       <class name="com.crm.vtiger.CreateOrgTest"/>
     </classes>
   </test> <!-- Test -->
